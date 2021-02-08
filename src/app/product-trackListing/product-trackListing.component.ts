@@ -5,9 +5,9 @@ import { Album } from '../album';
 
 @Component({
   // tslint:disable-next-line: component-selector
-  selector: 'app-product-trackListing',
-  templateUrl: './product-trackListing.component.html',
-  styleUrls: ['./product-trackListing.component.css']
+  selector: 'app-product-tracklisting',
+  templateUrl: './product-tracklisting.component.html',
+  styleUrls: ['./product-tracklisting.component.css']
 })
 export class ProductTracklistingComponent implements OnInit {
 
